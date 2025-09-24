@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Моя визитка</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin: 50px;">
+    <div style="background: #f0f0f0; padding: 30px; border-radius: 10px;">
+        <h1>Иван Иванов</h1>
+        <p><strong>Веб-разработчик</strong></p>
+        <hr>
+        <p>📧 ivan@example.com</p>
+        <p>📱 +7 (999) 123-45-67</p>
+        <p>Создаю сайты под ключ</p>
+    </div>
+</body>
+</html>
